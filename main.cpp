@@ -1,5 +1,6 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-  std::cout << "Hello World22223333222222222222!\n";
+  cout << "Hello World22223333222222222222!\n";
 }
